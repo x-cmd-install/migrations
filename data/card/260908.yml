@@ -5,7 +5,7 @@ about:
   head: 58ed053
   archived: false
   latestVersion: "mybatis-migrations-3.6.0"
-  collectedAt: 2026-09-08T03:20:12Z
+  collectedAt: 2026-09-08T05:58:52Z
 timeline:
   created: 2013-02-10
   lastCommit: 2026-09-07
@@ -81,7 +81,7 @@ total:
   commit: 1229
 ---
 path: /home/runner/.x-repo/github.com/mybatis/migrations
-collectedAt: 2026-09-08T03:20:14Z
+collectedAt: 2026-09-08T05:58:54Z
 loc:
   Java:
     code: 6101
