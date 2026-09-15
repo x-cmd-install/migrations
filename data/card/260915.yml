@@ -140,4 +140,3 @@ total:
 ---
 
 ---
-{"id":352359636,"author":{"login":"hazendaz","id":975267,"node_id":"MDQ6VXNlcjk3NTI2Nw==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAHvtbM4VAJTU","tag_name":"mybatis-migrations-3.6.0","target_commitish":"master","name":"Mybatis Migrations 3.6.0","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-07-10T22:36:33Z","updated_at":"2026-07-10T22:37:53Z","published_at":"2026-07-10T22:37:53Z","assets":[],"body":"- Modernize collections\r\n- Build updates / library updates\r\n- remove traces of security manager using jmockit to mock out system exit and putting all tests for all platforms back working regardless of jdk used.","reactions":{"total_count":2,"+1":2,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
