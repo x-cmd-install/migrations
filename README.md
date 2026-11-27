@@ -33,7 +33,7 @@ Total: **8,307** lines of code across **142** files in the top 5 languages.
 ## Release
 
 - **Latest**: `mybatis-migrations-3.6.0` (2026-07-10)
-- **Last commit**: 2026-11-22
+- **Last commit**: 2026-11-26
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **8,307** lines of code across **142** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 426 · **Open PRs**: 1 · **Closed issues**: 96 · **Open issues**: 20 · **Commits**: 1269
+- **Releases**: 19 · **Merged PRs**: 427 · **Open PRs**: 0 · **Closed issues**: 96 · **Open issues**: 20 · **Commits**: 1271
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 6 | 1 | 0 | 0 | 7 |
-| last60d | 2026-09-27 | 0 | 15 | 1 | 0 | 0 | 17 |
-| 90d | 2026-08-28 | 0 | 21 | 1 | 0 | 0 | 23 |
-| last180d | 2026-05-30 | 1 | 50 | 1 | 0 | 0 | 63 |
-| 360d | 2025-12-01 | 2 | 91 | 1 | 1 | 0 | 127 |
-| last720d | 2024-12-06 | 2 | 158 | 1 | 1 | 1 | 368 |
+| 30d | 2026-10-28 | 0 | 7 | 0 | 0 | 0 | 8 |
+| last60d | 2026-09-28 | 0 | 16 | 0 | 0 | 0 | 18 |
+| 90d | 2026-08-29 | 0 | 22 | 0 | 0 | 0 | 24 |
+| last180d | 2026-05-31 | 1 | 50 | 0 | 0 | 0 | 64 |
+| 360d | 2025-12-02 | 2 | 92 | 0 | 1 | 0 | 128 |
+| last720d | 2024-12-07 | 2 | 159 | 0 | 1 | 1 | 370 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for migrations lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:02:40Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:23:44Z._
